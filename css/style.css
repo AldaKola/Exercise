@@ -4,17 +4,8 @@
  box-sizing: border-box;
 }
 
-body{
- background-color: #fff;
+.name-center {
+    display: inline-block;
+
 }
 
-.test{
- display:block;
- margin:auto;
- width: 100px;
-}
-
-.my-btn{
- width:6rem;
- height: 3rem;
-}
