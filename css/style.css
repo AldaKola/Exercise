@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 body {
     background-color: #fff;
 }
@@ -28,3 +29,10 @@ input {
 body {
     background-color: #ccac93;
 }
+=======
+.name-center {
+    display: inline-block;
+
+}
+
+>>>>>>> 7d787cf88219d92f2dfd816a374e6ee0d8e004bd
