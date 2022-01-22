@@ -119,3 +119,50 @@ label {
 .for-flex input {
     flex-grow: 9;
 }
+.my-btn{
+ width:6rem;
+ height: 3rem;
+}
+
+#project-footer{
+    background-color:#665649;
+    font-family: sans-serif;
+    color:white;
+    margin-top: 50px;
+}
+
+#project-footer h1{
+    font-size: 30px;
+    margin: 25px 0px;
+}
+
+#project-footer p{
+    margin:0;
+    font-size:18px;
+
+}
+
+.column-options{
+    /* border:2px solid white; */
+    text-align: center;
+    margin-bottom :25px;
+}
+
+.image {
+    height: 10vh;
+    width: 20vh;
+    margin: 0;
+    padding:0;
+    margin-top: 80px;
+}
+
+
+.column-options a{
+    text-decoration: none;
+    color: rgb(243, 103, 126);
+}
+
+.column-options a:hover{
+    text-decoration: none;
+    color:white;
+}

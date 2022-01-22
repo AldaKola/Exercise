@@ -1,0 +1,20 @@
+
+@media(min-width:768px) and (max-width:992px){
+    .image {
+        height: 10vh;
+        width: 18vh;
+        margin: 0;
+        padding: 0;
+        margin-top:92px;
+    }
+}
+@media(max-width:767px){
+    .image {
+        height: 8vh;
+        width: 15vh;
+        margin: 0;
+        padding: 0;
+        margin-top: 50px;
+    }
+
+}
