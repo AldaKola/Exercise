@@ -18,3 +18,24 @@ body{
  width:6rem;
  height: 3rem;
 }
+
+#project-footer{
+    background-color: #CCAC93;
+    font-family: sans-serif;
+    color:white;
+    height:50vh;
+}
+
+.column-options{
+    margin-top: 25px;
+    /* border:2px solid white; */
+    text-align: center;
+    margin-bottom :25px;
+}
+
+.image {
+    height: 100%;
+    width: 80%;
+    margin: 0;
+    padding:0;
+}
