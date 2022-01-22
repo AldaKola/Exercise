@@ -1,20 +1,30 @@
-*{
- margin:0;
- padding:0;
- box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-body{
- background-color: #fff;
+body {
+    background-color: #fff;
 }
 
-.test{
- display:block;
- margin:auto;
- width: 100px;
+.test {
+    display: block;
+    margin: auto;
+    width: 100px;
 }
 
-.my-btn{
- width:6rem;
- height: 3rem;
+.my-btn {
+    width: 6rem;
+    height: 3rem;
+}
+
+label,
+input {
+    padding: 5px 20px;
+    margin: 5px 20px;
+}
+
+body {
+    background-color: #ccac93;
 }
