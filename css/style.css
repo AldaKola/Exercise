@@ -4,35 +4,46 @@
     box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 body {
-    background-color: #fff;
+    background-color: #ccac93;
 }
 
-.test {
-    display: block;
-    margin: auto;
-    width: 100px;
-}
-
-.my-btn {
-    width: 6rem;
-    height: 3rem;
+.sign-up {
+    width: 60%;
 }
 
 label,
 input {
-    padding: 5px 20px;
-    margin: 5px 20px;
+    padding: 5px 0;
+    margin: 5px 15px;
 }
 
-body {
-    background-color: #ccac93;
+label {
+    width: 12vw;
 }
-=======
+
 .name-center {
     display: inline-block;
 
 }
 
->>>>>>> 7d787cf88219d92f2dfd816a374e6ee0d8e004bd
+.pasw-center {
+    display: inline-block;
+}
+
+/* #email-inp {
+    display: flex;
+    /* width: fit-content; 
+} */
+
+.for-flex {
+    display: flex;
+}
+
+.for-flex label {
+    flex-grow: 1;
+}
+
+.for-flex input {
+    flex-grow: 9;
+}
