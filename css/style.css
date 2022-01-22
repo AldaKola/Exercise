@@ -1,7 +1,7 @@
-*{
- margin:0;
- padding:0;
- box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -73,6 +73,49 @@ margin: 0;
   #overlay ul{
     display:revert;
   }
+}  
   
-  
+body {
+    background-color: #ccac93;
+}
+
+.sign-up {
+    width: 80%;
+    margin: auto;
+}
+
+label,
+input {
+    padding: 5px 0;
+    margin: 5px 15px;
+}
+
+label {
+    width: 12vw;
+}
+
+.name-center {
+    display: inline-block;
+
+}
+
+.pasw-center {
+    display: inline-block;
+}
+
+/* #email-inp {
+    display: flex;
+    /* width: fit-content; 
+} */
+
+.for-flex {
+    display: flex;
+}
+
+.for-flex label {
+    flex-grow: 1;
+}
+
+.for-flex input {
+    flex-grow: 9;
 }
